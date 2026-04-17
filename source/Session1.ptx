@@ -24,82 +24,93 @@
     
     <paragraphs> <!--   %%%%%%%%%%%%%%%%   SECTION 1  %%%%%%%%%%%%%%%%%    -->
       <title>Getting Warmed Up and in the Right Mindset</title>
-    <exercise workspace="1 in">
-      <statement><!-- #1 -->
-        <p>
-          Problem 1 
-        </p>
-      </statement>
-    </exercise>
-    <exercise workspace="1 in">
-      <statement><!-- #2 -->
-        <p>
-          Problem 2 
-        </p>
-      </statement>
-    </exercise>
-    <exercise workspace="1 in">
-      <statement><!-- #3 -->
-        <p>
-          Problem 3
-        </p>
-      </statement>
-    </exercise>
+
+      <exercise workspace="1 in">
+        <statement><!-- #1 -->
+          <p>
+            Problem 1 
+          </p>
+        </statement>
+      </exercise>
+
+      <exercise workspace="1 in">
+        <statement><!-- #2 -->
+          <p>
+            Problem 2 
+          </p>
+        </statement>
+      </exercise>
+
+      <exercise workspace="1 in">
+        <statement><!-- #3 -->
+          <p>
+            Problem 3
+          </p>
+        </statement>
+      </exercise>
+
     </paragraphs>
+
     <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 2  %%%%%%%%%%%%%%%%%    -->
       <title>Let Us Get Our Hands On</title>
-    <exercise workspace="1 in" number="1">
-      <statement><!-- #1 -->
-        <p>
-          Problem 1
-        </p>
-      </statement>
-    </exercise> 
-    <exercise workspace="1 in" number="2">
-      <statement><!-- #2 -->
-        <p>
-          Problem 2
-        </p>
-      </statement>
-    </exercise>
-  
-  
-    <exercise workspace="1 in" number="3">
-      <statement><!-- #3 -->
-        <p> 
-          Problem 3  
-        </p>
-      </statement>
-    </exercise> 
-  
-  </paragraphs>
-  <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 3  %%%%%%%%%%%%%%%%%    -->
-    <title>Now Grades Go Up</title>
-  <exercise workspace ="1 in" number="1">
-    <statement><!-- #1 -->
-      <p>
-        Problem 1
-      </p>
-    </statement>
-  </exercise>
-  <exercise workspace ="1 in" number="2">
-    <statement><!-- #2 -->
-      <p>
-        Problem 2
-      </p>
-    </statement>
-  </exercise>
-  <exercise workspace ="1 in" number="3">
-    <statement><!-- #3 -->
-      <p>
-        Problem 3
-      </p>
-    </statement>
-  </exercise>
-  </paragraphs>
-  
-</worksheet>
 
-</article>
+      <exercise workspace="1 in" number="1">
+        <statement><!-- #1 -->
+          <p>
+            Problem 1
+          </p>
+        </statement>
+      </exercise> 
+
+      <exercise workspace="1 in" number="2">
+        <statement><!-- #2 -->
+          <p>
+            Problem 2
+          </p>
+        </statement>
+      </exercise>
+  
+      <exercise workspace="1 in" number="3">
+        <statement><!-- #3 -->
+          <p> 
+            Problem 3  
+          </p>
+        </statement>
+      </exercise> 
+  
+    </paragraphs>
+
+    <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 3  %%%%%%%%%%%%%%%%%    -->
+      <title>Now Grades Go Up</title>
+
+      <exercise workspace ="1 in" number="1">
+        <statement><!-- #1 -->
+          <p>
+            Problem 1
+          </p>
+        </statement>
+      </exercise>
+
+      <exercise workspace ="1 in" number="2">
+        <statement><!-- #2 -->
+          <p>
+            Problem 2
+          </p>
+        </statement>
+      </exercise>
+
+      <exercise workspace ="1 in" number="3">
+        <statement><!-- #3 -->
+          <p>
+            Problem 3
+          </p>
+        </statement>
+      </exercise>
+
+    </paragraphs>
+  
+  </worksheet>
+
+  </article>
 
 </pretext>
