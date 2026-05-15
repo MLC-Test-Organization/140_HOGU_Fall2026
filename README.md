@@ -1,6 +1,6 @@
 # This is the project for Math # Hands On, Grades Up
 
-If you are not reading this in a codespace, create a codespace on main by clicking the green 'Code' button. It may take a while for the codespace to load initially. 
+If you are not reading this in a codespace, create a codespace on main by clicking the green 'Code' button. It may take some time for the codespace to load initially. 
 
 
 *! Before you begin editing in the codespace, check that your codespace is using the most recent version of Pretext. Check `requirements.txt` AND the terminal by running "pretext --version". If one or both are out-of-date, run "pretext upgrade" first, followed by "pretext update" in the terminal. It may ask you to do a rebuild. 
