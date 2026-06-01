@@ -98,29 +98,8 @@
               2 &amp; 5 &amp; -6 \\
               12 &amp; -3 &amp; 9
               \end{bmatrix}
-              </m>
-               <ol marker="(a)">
-              <li>
-                <p>
-                Find <m> A + 2B </m>
-                </p>
-              </li>
-              <li>
-                <p>
-                 Find <m> 3A-H </m>
-                </p>
-              </li>
-              <li>
-                <p>
-                  <m> 4B-H^T </m>
-                </p>
-              </li>
-              <li>
-                <p>
-                  <m> 2BH </m>
-                </p>
-              </li>
-            </ol>
+              
+               
         </statement>
       </exercise>
 
@@ -194,6 +173,84 @@
       </exercise>
     </paragraphs>
 
+    <exercise workspace="1in"><!-- #5 -->
+        <statement>
+          <p>
+            5)	Laura is planning to buy sugar, flour, milk, and eggs for her bakery business. The prices of these items in three neighborhood supermarkets are shown in the table below. 
+            
+<table>
+  <tabular>
+    <row>
+      <cell></cell>
+      <cell>Sugar (5-lb bag )</cell>
+      <cell>Flour (5-lb bag )</cell>
+      <cell>Milk (1-gal carton )</cell>
+      <cell>Eggs (1-dozen carton )</cell>
+    </row>
+
+    <row>
+      <cell>Supermarket 1</cell>
+      <cell>$3.29</cell>
+      <cell>$3.99</cell>
+      <cell>$2.79</cell>
+      <cell>$2.99</cell>
+    </row>
+
+    <row>
+      <cell>Supermarket 2</cell>
+      <cell>$2.89</cell>
+      <cell>$2.99</cell>
+      <cell>$2.99</cell>
+      <cell>$3.49</cell>
+    </row>
+
+    <row>
+      <cell>Supermarket 3</cell>
+      <cell>$3.49</cell>
+      <cell>$2.74</cell>
+      <cell>$3.09</cell>
+      <cell>$2.89</cell>
+    </row>
+  </tabular>
+</table>
+
+          </p>
+           <ol marker="(a)">
+              <li>
+                <p>
+                Write a 3×4 matrix A to represent the prices of the four items in the three supermarkets.
+                </p>
+              </li>
+              <li>
+                <p>
+                 For the first week Laura plans to buy three 5-lb bags of sugar, six 5-lb bags of flour, four 1-gal cartons of milk, and four 1-dozen carton of eggs. Write a 4×1 matrix B to represent the quantities of each item that Laura plans to purchase for the first week.
+                </p>
+              </li>
+              <li>
+                <p>
+                  	For the second week Laura plans to buy two 5-lb bags of sugar, three 5-lb bags of flour, five 1-gal cartons of milk, and two 1-dozen carton of eggs. Write a 4×1 matrix C to represent the quantities of each item that Laura plans to purchase for the second week.
+                </p>
+              </li>
+              <li>
+                <p>
+                  	Find B+C and interpret the meaning of the matrix.
+                </p>
+              </li>
+              <li>
+                <p>
+                  	If T=A(B+C) , what does matrix T represent?
+                </p>
+              </li>
+              <li>
+                <p>
+                  	Use your calculator to find matrix T and then determine which supermarket Laura should buy the items from to minimize her cost? (Assuming she only shops at one supermarket)
+                </p>
+              </li>
+            </ol>
+            
+
+        </statement>
+      </exercise>
     <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 2  %%%%%%%%%%%%%%%%%    -->
       <title>Let Us Get Our Hands On</title>
 
