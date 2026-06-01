@@ -28,7 +28,7 @@
       <exercise workspace="1in"><!-- #1 -->
         <statement>
           <p>
-            1)	Given the matrices below, determine if the following computations are possible. If the computations are possible, find the resulting matrix by hand (i.e., do the math without a calculator), then check your answer using your calculator. If the computation is not possible, state why. 
+            	Given the matrices below, determine if the following computations are possible. If the computations are possible, find the resulting matrix by hand (i.e., do the math without a calculator), then check your answer using your calculator. If the computation is not possible, state why. 
           </p>
           
           <m>
@@ -57,22 +57,22 @@
           <ol marker="(a)">
               <li>
                 <p>
-                <m> A + 2B
+                <m> A + 2B </m>
                 </p>
               </li>
               <li>
                 <p>
-                  3A-H
+                 <m> 3A-H </m>
                 </p>
               </li>
               <li>
                 <p>
-                  4B-H^T
+                  <m>4B-H^T </m>
                 </p>
               </li>
               <li>
                 <p>
-                  2BH 
+                 <m> 2BH </m>
                 </m>
                 </p>
               </li>
