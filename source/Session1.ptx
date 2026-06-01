@@ -102,22 +102,22 @@
                <ol marker="(a)">
               <li>
                 <p>
-                Find <m> (K+L)^T. </m>
+                Find <m> A + 2B </m>
                 </p>
               </li>
               <li>
                 <p>
-                 Find <m> K^T + L^T. </m>
+                 Find <m> 3A-H </m>
                 </p>
               </li>
               <li>
                 <p>
-                  True or False: <m>(K+L)^T = K^T +L^T.4B-H^T </m>
+                  <m> 4B-H^T </m>
                 </p>
               </li>
               <li>
                 <p>
-                 <m> 2BH </m>
+                  <m> 2BH </m>
                 </p>
               </li>
             </ol>
@@ -169,9 +169,25 @@
               y &amp; 8 &amp; 9\\
               0 &amp; 1 &amp; 2
               \end{bmatrix}
-            </m>
+            </m>,
           </p>
-          
+           <ol marker="(a)">
+              <li>
+                <p>
+                Find <m> (K+L)^T. </m>
+                </p>
+              </li>
+              <li>
+                <p>
+                 Find <m> K^T + L^T. </m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  True or False: <m>(K+L)^T = K^T +L^T</m>
+                </p>
+              </li>
+            </ol>
             
 
         </statement>
