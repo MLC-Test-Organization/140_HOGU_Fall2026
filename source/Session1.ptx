@@ -99,7 +99,28 @@
               12 &amp; -3 &amp; 9
               \end{bmatrix}
               </m>
-
+               <ol marker="(a)">
+              <li>
+                <p>
+                Find <m> (K+L)^T. </m>
+                </p>
+              </li>
+              <li>
+                <p>
+                 Find <m> K^T + L^T. </m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  True or False: <m>(K+L)^T = K^T +L^T.4B-H^T </m>
+                </p>
+              </li>
+              <li>
+                <p>
+                 <m> 2BH </m>
+                </p>
+              </li>
+            </ol>
         </statement>
       </exercise>
 
@@ -132,6 +153,29 @@
         </statement>
       </exercise>
 
+      <exercise workspace="1in"><!-- #4 -->
+        <statement>
+          <p>
+            Given matrices  
+            <m>
+              K=\begin{bmatrix}
+              1 &amp; 2 &amp; 3\\
+              4 &amp; x &amp; 6
+              \end{bmatrix}
+            </m>
+            and 
+             <m>
+              L=\begin{bmatrix}
+              y &amp; 8 &amp; 9\\
+              0 &amp; 1 &amp; 2
+              \end{bmatrix}
+            </m>
+          </p>
+          
+            
+
+        </statement>
+      </exercise>
     </paragraphs>
 
     <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 2  %%%%%%%%%%%%%%%%%    -->
