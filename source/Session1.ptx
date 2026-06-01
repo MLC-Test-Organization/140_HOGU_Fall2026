@@ -45,7 +45,7 @@
             E = \begin{bmatrix}
             1 &amp; 2 &amp; -3 \\
             6 &amp; 0 &amp; -4\\
-            7 &amp; 18 &amp; 12\\
+            7 &amp; 18 &amp; 12
             \end{bmatrix},
             \;
             H = \begin{bmatrix}
