@@ -83,8 +83,23 @@
       <exercise workspace="1in"><!-- #2 -->
         <statement>
           <p>
-            Problem 2 
+            	Find a matrix F such that the following matrix equation is true.
           </p>
+          
+            <m>
+              \begin{bmatrix}
+              1 &amp; 2 &amp; -3 \\
+              6 &amp; 0 &amp; -4 \\
+              7 &amp; 18 &amp; 12
+              \end{bmatrix}
+              - F =
+              \begin{bmatrix}
+              0 &amp; -10 &amp; 30 \\
+              2 &amp; 5 &amp; -6 \\
+              12 &amp; -3 &amp; 9
+              \end{bmatrix}
+              </m>
+
         </statement>
       </exercise>
 
