@@ -31,7 +31,7 @@
             	Given the matrices below, determine if the following computations are possible. If the computations are possible, find the resulting matrix by hand (i.e., do the math without a calculator), then check your answer using your calculator. If the computation is not possible, state why. 
           </p>
           
-          <m>
+          <me>
             A = \begin{bmatrix}
             2 &amp; -1 &amp; 4 \\
             0 &amp; 3 &amp; 5
@@ -53,7 +53,7 @@
             0 &amp; 4 \\
             -2 &amp; 3
             \end{bmatrix}
-            </m>
+            </me>
           <ol marker="(a)">
               <li>
                 <p>
