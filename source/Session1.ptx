@@ -327,6 +327,26 @@
         </statement>
       </exercise>
 
+      <exercise workspace="1in"><!-- #8 -->
+        <statement>
+          <p>
+           	Matrix P represents the prices for one faculty ticket to three different Aggie football games. Matrix F represents the number of faculty members who attended each of the three games.
+            
+          </p>  
+          
+<p>
+<m>
+P =
+\begin{bmatrix}
+20 &amp; 35 &amp; 50
+\end{bmatrix}
+</m>
+</p>
+
+<p>Game 1, Game 2, Game 3</p>
+
+        </statement>
+      </exercise>
 
     <paragraphs><!--   %%%%%%%%%%%%%%%%   SECTION 2  %%%%%%%%%%%%%%%%%    -->
       <title>Let Us Get Our Hands On</title>
