@@ -305,7 +305,7 @@
   </tabular>
 </table>
 
-       </p>
+
            <ol marker="(a)">
               <li>
                 <p>
@@ -321,8 +321,7 @@
                 <p>
                   	Find the revenue matrix R and interpret the meaning of <m>r_13</m> .
                 </p>
-              </li>
-              
+              </li> 
             </ol>     
                
         </statement>
