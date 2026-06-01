@@ -335,15 +335,25 @@
           </p>  
           
 <p>
-<m>
-P =
-\begin{bmatrix}
-20 &amp; 35 &amp; 50
-\end{bmatrix}
-</m>
-</p>
 
-<p>Game 1, Game 2, Game 3</p>
+<table>
+  <tabular>
+    <row>
+      <cell></cell>
+      <cell>Game 1</cell>
+      <cell>Game 2</cell>
+      <cell>Game 3</cell>
+    </row>
+
+    <row>
+      <cell><m>P =</m></cell>
+      <cell><m>20</m></cell>
+      <cell><m>35</m></cell>
+      <cell><m>50</m></cell>
+    </row>
+  </tabular>
+</table>
+
 
         </statement>
       </exercise>
