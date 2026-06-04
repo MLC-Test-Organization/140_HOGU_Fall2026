@@ -354,6 +354,22 @@
   </tabular>
 </table>
 
+<table>
+  <tabular>
+    <row>
+      <cell>Game 1</cell>
+      <cell>Game 2</cell>
+      <cell>Game 3</cell>
+    </row>
+    <row>
+      <cell><m>256</m></cell>
+      <cell><m>312</m></cell>
+      <cell><m>542</m></cell>
+    </row>
+  </tabular>
+</table>
+<p> 
+  Compute the product <m> PF </m> and interpret the result. 
 
         </statement>
       </exercise>
